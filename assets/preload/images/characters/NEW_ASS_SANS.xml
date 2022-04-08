@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="NEW_ASS_SANS.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	    <SubTexture name="Down instance 100" x="0" y="0" width="552" height="501" frameX="0" frameY="-42" frameWidth="529" frameHeight="520"/>
+	
+	<SubTexture name="Left instance 1000" x="1062" y="0" width="551" height="563" frameX="0" frameY="-16" frameWidth="578" frameHeight="522"/>
+	<SubTexture name="Left instance 1001" x="1608" y="0" width="561" height="579" frameX="-28" frameY="0" frameWidth="578" frameHeight="522"/>
+	<SubTexture name="Left instance 1002" x="1608" y="0" width="561" height="579" frameX="-28" frameY="0" frameWidth="578" frameHeight="522"/>
+	
+	<SubTexture name="Right instance 1000" x="2181" y="58" width="477" height="588" frameX="-17" frameY="0" frameWidth="519" frameHeight="520"/>
+	<SubTexture name="Right instance 1001" x="2657" y="58" width="477" height="530" frameX="-12" frameY="0" frameWidth="519" frameHeight="520"/>
+	<SubTexture name="Right instance 1002" x="2657" y="58" width="477" height="530" frameX="-12" frameY="0" frameWidth="519" frameHeight="520"/>
+	
+	<SubTexture name="Sans FNF instance 10000" x="0" y="594" width="509" height="530" frameX="-15" frameY="-1" frameWidth="509" frameHeight="521"/>
+	<SubTexture name="Sans FNF instance 1001" x="0" y="594" width="509" height="530" frameX="-15" frameY="-1" frameWidth="509" frameHeight="521"/>
+	<SubTexture name="Sans FNF instance 1002" x="507" y="600" width="509" height="530" frameX="-15" frameY="-1" frameWidth="509" frameHeight="521"/>
+	<SubTexture name="Sans FNF instance 1003" x="1004" y="600" width="509" height="530" frameX="-17" frameY="-3" frameWidth="509" frameHeight="521"/>
+	<SubTexture name="Sans FNF instance 1004" x="1004" y="600" width="509" height="530" frameX="-17" frameY="-3" frameWidth="509" frameHeight="521"/>
+	<SubTexture name="Sans FNF instance 1005" x="1004" y="600" width="509" height="530" frameX="-17" frameY="-3" frameWidth="509" frameHeight="521"/>
+	<SubTexture name="Sans FNF instance 1006" x="1552" y="684" width="509" height="591" frameX="-15" frameY="-1" frameWidth="509" frameHeight="521"/>
+	
+	<SubTexture name="Up instance 1000" x="2597" y="681" width="441" height="594" frameX="-11" frameY="0" frameWidth="521" frameHeight="549"/>
+	<SubTexture name="Up instance 1001" x="3041" y="681" width="462" height="594" frameX="-2" frameY="-23" frameWidth="521" frameHeight="549"/>
+	<SubTexture name="Up instance 1002" x="3041" y="681" width="462" height="594" frameX="-2" frameY="-23" frameWidth="521" frameHeight="549"/>
+	
+</TextureAtlas>
